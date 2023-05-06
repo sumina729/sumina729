@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:EDA0E9,100:EDA0E9&height=230&section=header&text=Sumin's%20Github&fontSize=60&animation=fadeIn&fontAlignY=32&desc=💻%20Developer%20who%20helps%20people%20💻&descAlignY=50&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:EDA0E9,100:EDA0E9&height=230&section=header&text=Sumin's%20Github&fontSize=60&animation=fadeIn&fontAlignY=32&desc=Developer%20who%20helps%20people%20&descAlignY=50&descAlign=50)
 
 <div align=center>
 <h2>🛠 MY STACKS 🛠</h2>
