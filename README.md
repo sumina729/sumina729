@@ -1,4 +1,4 @@
-### Hi there 👋
+## 안녕하세요 사람들에게 도움을 주는 개발자 이수입니다.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumina729&show_icons=true&theme=nightowl)
