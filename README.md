@@ -35,7 +35,7 @@
 
 🏫 Handong Global University 22 <br/> 
 📝 Major in Computer Science Engineering <br/>
-📖Be joyful always, pray continually, give thanks in all circumstances, for this is God's will for you in Christ Jesus.<br/> <br/> 
+📖 Be joyful always, pray continually, give thanks in all circumstances, for this is God's will for you in Christ Jesus.<br/> <br/> 
 
 ### 💼 WORK EXPERIENCE<br/> 
 2022.02 ~ 2022.6 - Welfare Department of 26th Dorm Union THEME in HGU<br/>
