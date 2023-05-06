@@ -37,7 +37,7 @@
 📝 Major in Computer Science Engineering <br/> <br/> 
 
 💼 WORK EXPERIENCE
-2022.02 ~ 2022.6 - Welfare Department of 26th Dorm Union THEME in HGU
+2022.02 ~ 2022.6 - Welfare Department of 26th Dorm Union THEME in HGU<br/>
 2022.03 ~ now - Manager of Tennis Sports Club, GLANDALSM in HGU<br/><br/>
 
 🧑‍🤝‍🧑 TEAMS
@@ -48,7 +48,6 @@
 
 
 👩🏻‍💻 TEAM PROJECT
-
 2022.03 ~ 2022.1 - Protect the Earth (shooting game based on unity)<br/>
 2022.04 ~ 2022.5 - dormitory management system (Mini Project in OSS class)<br/><br/>
 
