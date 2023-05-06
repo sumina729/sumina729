@@ -31,9 +31,7 @@
 <a href="https://www.instagram.com/su_min729/" target="_blank"><img src="https://img.shields.io/badge/instagram-41454A?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://youtube.com/@su_min729" target="_blank"><img src="https://img.shields.io/badge/youtube-41454A?style=for-the-badge&logo=youtube&logoColor=white"></a> <a href="https://volcano-woodpecker-2f9.notion.site/a4f1ba6f718d49b0b9208fdb3b06fa5b" target="_blank"><img src="https://img.shields.io/badge/notion-41454A?style=for-the-badge&logo=notion&logoColor=white"></a>
 </div>
 
-- SuminLee
-- 2003/07/29
-- ESFJ
+- SuminLee / 2003.07.29 / ESFJ
 - Handong Global University (<a href="https://www.handong.edu" target="_blank"><a href="http://www.sasa-net.net" target="_blank"><img src="https://img.shields.io/badge/HGU-333333?style=flat-square&logo=&logoColor=white"/></a>)
 - Handong Global University 26th Dorm Union THEME (<a href="https://www.instagram.com/hgu_dormunion_official/" target="_blank"><a href="http://www.sasa-net.net" target="_blank"><img src="https://img.shields.io/badge/THEME-333333?style=flat-square&logo=&logoColor=white"/></a>)
 - SASAschool (<a href="http://www.sasa-net.net" target="_blank"><img src="https://img.shields.io/badge/SASAschool-333333?style=flat-square&logo=&logoColor=white"/></a>)
