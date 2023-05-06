@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:EDA0E3,100:9354ED&height=280&section=header&text=Sumin's%20Github&fontSize=80&animation=fadeIn&fontAlignY=37&desc=Developer%20who%20helps%20people&descAlignY=58&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:EDA0E9,100:EDA0E9&height=250&section=header&text=Sumin's%20Github&fontSize=80&animation=fadeIn&fontAlignY=37&desc=Developer%20who%20helps%20people&descAlignY=58&descAlign=50)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumina729&show_icons=true&theme=nightowl)  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sumina729)](https://solved.ac/sumina729)
