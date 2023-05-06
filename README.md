@@ -27,7 +27,7 @@
 <br/> 
 
 <div align=center>
-<h2>💡 My INTRODUCTION 💡</h2>
+<h2>💡 MY INTRODUCTION 💡</h2>
 </div>
 
 - SuminLee
