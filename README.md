@@ -1,9 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=Sumin's%20Github&fontSize=90&animation=fadeIn&fontAlignY=37&desc=Developer%20who%20helps%20people&descAlignY=58&descAlign=50)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumina729&show_icons=true&theme=dark)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sumina729)](https://solved.ac/sumina729)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumina729&show_icons=true&theme=dark) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sumina729)](https://solved.ac/sumina729)
 
 <!--
 **sumina729/sumina729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
