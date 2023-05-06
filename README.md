@@ -3,8 +3,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumina729&show_icons=true&theme=nightowl)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sumina729)](https://solved.ac/sumina729)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sumina729)](https://solved.ac/sumina729)
 
 <!--
 **sumina729/sumina729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
