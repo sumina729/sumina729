@@ -25,6 +25,21 @@
 </div>
 
 <br/> 
+
+<div align=center>
+<h2>💡 My INTRODUCTION 💡</h2>
+</div>
+
+- SuminLee
+- 2003/07/29
+- ESFJ
+- Handong Global University
+- Handong Global University 26th Dorm Union THEME
+- SASAschool
+- Grandslam 
+- Likelion BackEnd
+
+
 <br/> 
 <br/> 
 
