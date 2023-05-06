@@ -37,12 +37,10 @@
 📝 Major in Computer Science Engineering <br/> <br/> 
 
 💼 WORK EXPERIENCE
-
-2022.02 ~ 2022.6 - Welfare Department of 26th Dorm Union THEME in HGU<br/>
+2022.02 ~ 2022.6 - Welfare Department of 26th Dorm Union THEME in HGU
 2022.03 ~ now - Manager of Tennis Sports Club, GLANDALSM in HGU<br/><br/>
 
 🧑‍🤝‍🧑 TEAMS
-
 2022.08 ~ 2022.3 - SLE (HGU's Computer Science Engineering Academy)<br/>
 2022.03 ~ 2022.1 - Freshman team (2022-1 Vacation Project in SLE)<br/>
 2022.03 ~ now - GLANDALSM (HGU's Tennis Sports Club)<br/>
