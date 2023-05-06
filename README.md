@@ -1,4 +1,8 @@
-# 💻 I'm Sumin Lee! 💻
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Sumin's Github&fontSize=70" />
+
+
+
+# 💻 Hello! I'm Sumin Lee! 💻
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumina729&show_icons=true&theme=nightowl)
