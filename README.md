@@ -34,11 +34,11 @@
 - SuminLee
 - 2003/07/29
 - ESFJ
-- Handong Global University
-- Handong Global University 26th Dorm Union THEME
-- SASAschool
-- Grandslam 
-- Likelion BackEnd 
+- Handong Global University (<a href="https://www.handong.edu" target="_blank"><img src="https://img.shields.io/badge/HGU-333333?style=for-the-badge&logo==&logoColor=white"></a>)
+- Handong Global University 26th Dorm Union THEME (<a href="https://www.instagram.com/hgu_dormunion_official/" target="_blank"><img src="https://img.shields.io/badge/THEME-333333?style=for-the-badge&logo==&logoColor=white"></a>)
+- SASAschool (<a href="http://www.sasa-net.net" target="_blank"><img src="https://img.shields.io/badge/SASAschool-333333?style=for-the-badge&logo==&logoColor=white"></a>)
+- Grandslam (<a href="https://instagram.com/grandslam_hgu/" target="_blank"><img src="https://img.shields.io/badge/grandslam-333333?style=for-the-badge&logo==&logoColor=white"></a>)
+- Likelion BackEnd (<a href="https://instagram.com/likelion_hgu/" target="_blank"><img src="https://img.shields.io/badge/likelion-333333?style=for-the-badge&logo==&logoColor=white"></a>)
 
 
 <br/> 
