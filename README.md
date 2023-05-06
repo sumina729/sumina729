@@ -39,10 +39,7 @@
 - Grandslam 
 - Likelion BackEnd
 <br/> 
-<a href="[클릭시 이동할 링크](https://www.instagram.com/su_min729/)" target="_blank"><img src="https://img.shields.io/badge/instagram-333333?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="[클릭시 이동할 링크](https://youtube.com/@su_min729)" target="_blank"><img src="https://img.shields.io/badge/youtube-333333?style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="[클릭시 이동할 링크](https://volcano-woodpecker-2f9.notion.site/a4f1ba6f718d49b0b9208fdb3b06fa5b)" target="_blank"><img src="https://img.shields.io/badge/notion-333333?style=for-the-badge&logo=notion&logoColor=white"></a>
-
+<a href="https://www.instagram.com/su_min729/" target="_blank"><img src="https://img.shields.io/badge/instagram-333333?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://youtube.com/@su_min729" target="_blank"><img src="https://img.shields.io/badge/youtube-333333?style=for-the-badge&logo=youtube&logoColor=white"></a> <a href="https://volcano-woodpecker-2f9.notion.site/a4f1ba6f718d49b0b9208fdb3b06fa5b" target="_blank"><img src="https://img.shields.io/badge/notion-333333?style=for-the-badge&logo=notion&logoColor=white"></a>
 
 <br/> 
 <br/> 
