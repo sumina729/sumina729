@@ -32,7 +32,7 @@
 </div>
 
 - SuminLee / 2003.07.29 / ESFJ
-- Handong Global University (<a href="https://www.handong.edu" target="_blank"><a href="http://www.sasa-net.net" target="_blank"><img src="https://img.shields.io/badge/HGU-333333?style=flat-square&logo=&logoColor=white"/></a>)
+- Handong Global University 22 (<a href="https://www.handong.edu" target="_blank"><a href="http://www.sasa-net.net" target="_blank"><img src="https://img.shields.io/badge/HGU-333333?style=flat-square&logo=&logoColor=white"/></a>)
 - Handong Global University 26th Dorm Union THEME (<a href="https://www.instagram.com/hgu_dormunion_official/" target="_blank"><a href="http://www.sasa-net.net" target="_blank"><img src="https://img.shields.io/badge/THEME-333333?style=flat-square&logo=&logoColor=white"/></a>)
 - SASAschool (<a href="http://www.sasa-net.net" target="_blank"><img src="https://img.shields.io/badge/SASAschool-333333?style=flat-square&logo=&logoColor=white"/></a>)
 - Grandslam (<a href="https://instagram.com/grandslam_hgu/" target="_blank"><img src="https://img.shields.io/badge/Grandslam-333333?style=flat-square&logo=&logoColor=white"/></a>)
