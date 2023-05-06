@@ -33,8 +33,8 @@
 
 <br/>
 
-🏫 | Handong Global University 22 <br/> 
-📝 | Major in Computer Science Engineering <br/> <br/> 
+🏫 Handong Global University 22 <br/> 
+📝 Major in Computer Science Engineering <br/> <br/> 
 
 💼 WORK EXPERIENCE
 
