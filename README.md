@@ -36,27 +36,27 @@
 🏫 Handong Global University 22 <br/> 
 📝 Major in Computer Science Engineering <br/> <br/> 
 
-💼 WORK EXPERIENCE<br/> 
+### 💼 WORK EXPERIENCE<br/> 
 2022.02 ~ 2022.6 - Welfare Department of 26th Dorm Union THEME in HGU<br/>
 2022.03 ~ now - Manager of Tennis Sports Club, GLANDALSM in HGU<br/><br/>
 
-🧑‍🤝‍🧑 TEAMS<br/> 
+### 🧑‍🤝‍🧑 TEAMS<br/> 
 2022.08 ~ 2022.3 - SLE (HGU's Computer Science Engineering Academy)<br/>
 2022.03 ~ 2022.1 - Freshman team (2022-1 Vacation Project in SLE)<br/>
 2022.03 ~ now - GLANDALSM (HGU's Tennis Sports Club)<br/>
 2023.03 ~ now - LIKELION in HGU(Back end of Web Development National Association Club )<br/><br/>
 
 
-👩🏻‍💻 TEAM PROJECT<br/> 
+### 👩🏻‍💻 TEAM PROJECT<br/> 
 2022.03 ~ 2022.1 - Protect the Earth (shooting game based on unity)<br/>
 2022.04 ~ 2022.5 - dormitory management system (Mini Project in OSS class)<br/><br/>
 
-👩🏻‍💻 PERSONAL PROJECT<br/>
+### 👩🏻‍💻 PERSONAL PROJECT<br/>
 2022.03 - 미리미리 C캠프 (2022 Handong Summer SW Academy)<br/>
 2023.01 - Java Program Basics (2023 Handong Winter SW Academy)<br/>
 2023.01 - C고수되기 첫걸음 Camp (2023 Handong Winter SW Academy)<br/><br/>
 
-🏆 ACHIEVEMENTS<br/>
+### 🏆 ACHIEVEMENTS<br/>
 2022.12 - [grand prize] 2022 C Programming Contest in HGU 
 
 
