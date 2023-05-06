@@ -54,7 +54,7 @@
 2022.04 ~ 2022.5 - dormitory management system (Mini Project in OSS class)<br/><br/>
 
 ### 👩🏻‍💻 PERSONAL PROJECT<br/>
-2022.03 - 미리미리 C캠프 (2022 Handong Summer SW Academy)<br/>
+2022.03 - 미리미리 C camp (2022 Handong Summer SW Academy)<br/>
 2023.01 - Java Program Basics (2023 Handong Winter SW Academy)<br/>
 2023.01 - C고수되기 첫걸음 Camp (2023 Handong Winter SW Academy)<br/><br/>
 
