@@ -31,12 +31,36 @@
 <a href="https://www.instagram.com/su_min729/" target="_blank"><img src="https://img.shields.io/badge/instagram-41454A?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://youtube.com/@su_min729" target="_blank"><img src="https://img.shields.io/badge/youtube-41454A?style=for-the-badge&logo=youtube&logoColor=white"></a> <a href="https://volcano-woodpecker-2f9.notion.site/a4f1ba6f718d49b0b9208fdb3b06fa5b" target="_blank"><img src="https://img.shields.io/badge/notion-41454A?style=for-the-badge&logo=notion&logoColor=white"></a>
 </div>
 
-- SuminLee / 2003.07.29 / ESFJ
-- Handong Global University 22 (<a href="https://www.handong.edu" target="_blank"><a href="http://www.sasa-net.net" target="_blank"><img src="https://img.shields.io/badge/HGU-333333?style=flat-square&logo=&logoColor=white"/></a>)
-- Handong Global University 26th Dorm Union THEME (<a href="https://www.instagram.com/hgu_dormunion_official/" target="_blank"><a href="http://www.sasa-net.net" target="_blank"><img src="https://img.shields.io/badge/THEME-333333?style=flat-square&logo=&logoColor=white"/></a>)
-- SASAschool (<a href="http://www.sasa-net.net" target="_blank"><img src="https://img.shields.io/badge/SASAschool-333333?style=flat-square&logo=&logoColor=white"/></a>)
-- Grandslam (<a href="https://instagram.com/grandslam_hgu/" target="_blank"><img src="https://img.shields.io/badge/Grandslam-333333?style=flat-square&logo=&logoColor=white"/></a>)
-- Likelion BackEnd (<a href="https://instagram.com/likelion_hgu/" target="_blank"><img src="https://img.shields.io/badge/Likelion-333333?style=flat-square&logo=&logoColor=white"/></a>)
+<br/>
+
+🏫 | Handong Global University 22 <br/> 
+📝 | Major in Computer Science Engineering <br/> <br/> 
+
+💼 WORK EXPERIENCE
+
+2022.02 ~ 2022.6 - Welfare Department of 26th Dorm Union THEME in HGU<br/>
+2022.03 ~ now - Manager of Tennis Sports Club, GLANDALSM in HGU<br/><br/>
+
+🧑‍🤝‍🧑 TEAMS
+
+2022.08 ~ 2022.3 - SLE (HGU's Computer Science Engineering Academy)<br/>
+2022.03 ~ 2022.1 - Freshman team (2022-1 Vacation Project in SLE)<br/>
+2022.03 ~ now - GLANDALSM (HGU's Tennis Sports Club)<br/>
+2023.03 ~ now - LIKELION in HGU(Back end of Web Development National Association Club )<br/><br/>
+
+
+👩🏻‍💻 TEAM PROJECT
+
+2022.03 ~ 2022.1 - Protect the Earth (shooting game based on unity)<br/>
+2022.04 ~ 2022.5 - dormitory management system (Mini Project in OSS class)<br/><br/>
+
+👩🏻‍💻 PERSONAL PROJECT<br/>
+2022.03 - 미리미리 C캠프 (2022 Handong Summer SW Academy)<br/>
+2023.01 - Java Program Basics (2023 Handong Winter SW Academy)<br/>
+2023.01 - C고수되기 첫걸음 Camp (2023 Handong Winter SW Academy)<br/><br/>
+
+🏆 ACHIEVEMENTS<br/>
+2022.12 - [grand prize] 2022 C Programming Contest in HGU 
 
 
 <br/> 
