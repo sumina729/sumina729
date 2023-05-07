@@ -55,8 +55,8 @@
 
 ### 👩🏻‍💻 PERSONAL PROJECT<br/>
 2022.03 - 미리미리 C camp (2022 Handong Summer SW Academy)<br/>
-2023.01 - Java Program Basics (2023 Handong Winter SW Academy)<br/>
-2023.01 - C고수되기 첫걸음 Camp (2023 Handong Winter SW Academy)<br/><br/>
+2023.01 - Java Program Basics camp (2023 Handong Winter SW Academy)<br/>
+2023.01 - C고수되기 첫걸음 camp (2023 Handong Winter SW Academy)<br/><br/>
 
 ### 🏆 ACHIEVEMENTS<br/>
 2022.12 - [grand prize] 2022 C Programming Contest in HGU 
