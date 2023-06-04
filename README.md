@@ -60,7 +60,7 @@
 2023.01 - C고수되기 첫걸음 camp (2023 Handong Winter SW Academy)<br/><br/>
 
 ### 🏆 ACHIEVEMENTS<br/>
-2022.12 - [grand prize] 2022 C Programming Contest in HGU 
+2022.12 - [우수상] 2022 C Programming Contest in HGU 
 
 
 <br/> 
