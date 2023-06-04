@@ -40,14 +40,15 @@
 📖 Be joyful always, pray continually, give thanks in all circumstances, for this is God's will for you in Christ Jesus.<br/> <br/> 
 
 ### 💼 WORK EXPERIENCE<br/> 
-2023.02 ~ now - Welfare Department of 26th Dorm Union THEME in HGU<br/>
+2023.02 ~ 2023.06 - Welfare Department of 26th Dorm Union THEME in HGU<br/>
 2023.03 ~ now - Manager of Tennis Sports Club, GLANDALSM in HGU<br/><br/>
 
 ### 🧑‍🤝‍🧑 TEAMS<br/> 
 2022.03 ~ now - GLANDALSM (HGU's Tennis Sports Club)<br/>
 2022.08 ~ 2022.3 - SLE (HGU's Computer Science Engineering Academy)<br/>
 2022.08 ~ 2022.1 - Freshman team (2022-1 Vacation Project in SLE)<br/>
-2023.03 ~ now - LIKELION in HGU(Back end of Web Development National Association Club )<br/><br/>
+2023.03 ~ now - LIKELION(11th) in HGU(Back end of Web Development National Association Club )<br/>
+2023.05 ~ now - TEAM4 (2023-1 IDEATHON in LIKELION_11th)<br/><br/>
 
 
 ### 👩🏻‍💻 TEAM PROJECT<br/> 
