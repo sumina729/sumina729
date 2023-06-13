@@ -61,10 +61,9 @@
 2023.01 - C고수되기 첫걸음 camp (2023 Handong Winter SW Academy)<br/><br/>
 
 ### 🏆 ACHIEVEMENTS<br/>
-2022.12 - [우수상] 2022 C Programming Contest in HGU <br/> 
+2022.12 - [우수상] 2022 C Programming Contest in HGU 
 
-
-
+<br/> 
 <br/> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumina729&show_icons=true&theme=nightowl)  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sumina729)](https://solved.ac/sumina729)
