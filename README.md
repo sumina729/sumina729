@@ -48,7 +48,7 @@
 2022.08 ~ 2022.3 - SLE (HGU's Computer Science Engineering Academy)<br/>
 2022.08 ~ 2022.1 - Freshman team (2022-1 Vacation Project in SLE)<br/>
 2023.03 ~ now - [LIKELION(11th) in HGU](https://hgulikelion.web.app/)(Backend of Web Development National Association Club )<br/>
-2023.05 ~ 2023.06 - TEAM4 (2023 IDEATHON in LIKELION_11th)<br/>
+2023.05 ~ 2023.06 - [말하는 감자](https://www.figma.com/file/n42BBlWMjvBnioE9jeaFGv/%EB%9C%A8%EA%B1%B0%EC%9A%B4-%EA%B0%90%EC%9E%90?type=design&node-id=8%3A77&mode=design&t=dgvaucUJkgvzg1LZ-1) (2023 IDEATHON in LIKELION_11th)<br/>
 2023.06 ~ 2023.07 - TEAM1 (2023 Summer Vacation Project in LIKELION_11th)<br/>
 2023.07 ~ 2023.08 - TEAM1 (2023 HACKATHON in LIKELION_11th)<br/><br/>
 
@@ -56,7 +56,7 @@
 ### 👩🏻‍💻 TEAM PROJECT<br/> 
 2022.03 ~ 2022.1 - Protect the Earth (shooting game based on unity)<br/>
 2022.04 ~ 2022.5 - dormitory management system (Mini Project in OSS class)<br/><
-2023.05 ~ 2023.06 - TEAM4 (2023 IDEATHON in LIKELION_11th)<br/>
+2023.05 ~ 2023.06 - Oh!감자 (Mental health services to depressed people)<br/>
 2023.06 ~ 2023.07 - [funddigging](https://github.com/LikeLionHGU/2023-Summer-team1-back/tree/main) (Funding website that links influencers and diggers)<br/>
 2023.07 ~ 2023.08 - 000 <br/><br/>
 
