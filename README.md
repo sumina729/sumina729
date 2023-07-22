@@ -57,7 +57,7 @@
 2022.03 ~ 2022.1 - Protect the Earth (shooting game based on unity)<br/>
 2022.04 ~ 2022.5 - dormitory management system (Mini Project in OSS class)<br/><br/>
 2023.05 ~ 2023.06 - TEAM4 (2023 IDEATHON in LIKELION_11th)<br/>
-2023.06 ~ 2023.07 - TEAM1 (2023 Summer Vacation Project in LIKELION_11th)<br/>
+2023.06 ~ 2023.07 - [funddigging](https://github.com/LikeLionHGU/2023-Summer-team1-back/tree/main) (2023 Summer Vacation Project in LIKELION_11th)<br/>
 2023.07 ~ 2023.08 - TEAM1 (2023 HACKATHON in LIKELION_11th)<br/><br/>
 
 ### 👩🏻‍💻 PERSONAL PROJECT<br/>
