@@ -47,7 +47,7 @@
 2022.03 ~ now - GLANDALSM (HGU's Tennis Sports Club)<br/>
 2022.08 ~ 2022.3 - SLE (HGU's Computer Science Engineering Academy)<br/>
 2022.08 ~ 2022.1 - Freshman team (2022-1 Vacation Project in SLE)<br/>
-2023.03 ~ now - LIKELION(11th) in HGU(Backend of Web Development National Association Club )<br/>
+2023.03 ~ now - [LIKELION(11th) in HGU](https://hgulikelion.web.app/)(Backend of Web Development National Association Club )<br/>
 2023.05 ~ 2023.06 - TEAM4 (2023 IDEATHON in LIKELION_11th)<br/>
 2023.06 ~ 2023.07 - TEAM1 (2023 Summer Vacation Project in LIKELION_11th)<br/>
 2023.07 ~ 2023.08 - TEAM1 (2023 HACKATHON in LIKELION_11th)<br/><br/>
