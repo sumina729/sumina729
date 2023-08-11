@@ -50,7 +50,7 @@
 2023.03 ~ now - [LIKELION(11th) in HGU](https://hgulikelion.web.app/)(Backend of Web Development National Association Club )<br/>
 2023.05 ~ 2023.06 - 말하는감자 (2023 IDEATHON in LIKELION_11th)<br/>
 2023.06 ~ 2023.07 - TEAM1 (2023 Summer Vacation Project in LIKELION_11th)<br/>
-2023.07 ~ 2023.08 - TEAM1 (2023 HACKATHON in LIKELION_11th)<br/><br/>
+2023.07 ~ 2023.08 - 링딩동 (2023 HACKATHON in LIKELION_11th)<br/><br/>
 
 
 ### 👩🏻‍💻 TEAM PROJECT<br/> 
