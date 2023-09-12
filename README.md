@@ -60,7 +60,7 @@
 2023.05 ~ 2023.06 - [Oh!감자](https://www.figma.com/file/n42BBlWMjvBnioE9jeaFGv/%EB%9C%A8%EA%B1%B0%EC%9A%B4-%EA%B0%90%EC%9E%90?type=design&node-id=8%3A77&mode=design&t=dgvaucUJkgvzg1LZ-1) (Mental health services to depressed people)<br/>
 2023.06 ~ 2023.07 - [funddigging](https://github.com/LikeLionHGU/2023-Summer-team1-back/tree/main) (Funding website that links influencers and diggers)<br/>
 2023.07 ~ 2023.08 - [CurioQuest](https://github.com/LikeLionHGU/CurioQuest-back/tree/queryCube) (CurioQuest APP/Widget)<br/>
-2023.08 ~ 2023.09 - ar을 이용한 제주도 쓰래기 문제 개선 및 Iot쓰래기통 서비스<br/><br/>
+2023.08 ~ 2023.09 - [제주 청년 사회 안전망 구축을 위한 네트워킹 서비스, 밥GO?](https://www.jejudsi.kr/issue/Rvbr)<br/><br/>
 
 ### 👩🏻‍💻 PERSONAL PROJECT<br/>
 2022.03 - 미리미리 C camp (2022 Handong Summer SW Academy)<br/>
