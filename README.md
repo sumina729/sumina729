@@ -61,7 +61,7 @@
 2023.06 ~ 2023.07 - [funddigging](https://github.com/LikeLionHGU/2023-Summer-team1-back/tree/main) (Funding website that links influencers and diggers)<br/>
 2023.07 ~ 2023.08 - [CurioQuest](https://github.com/LikeLionHGU/CurioQuest-back/tree/queryCube) (CurioQuest APP/Widget)<br/>
 2023.08 ~ 2023.09 - [밥GO?](https://www.jejudsi.kr/issue/Rvbr)(networking service to build a social safety net for young people in Jeju)<br/>
-2023.10 ~ 2023.12 - [Uknow]() (service for graduation Course planning)
+2023.10 ~ 2023.12 - [Uknow](https://github.com/LikeLionHGU/UKnow-backend) (service for graduation Course planning)
 
 <br/>
 
