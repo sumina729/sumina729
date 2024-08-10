@@ -30,7 +30,7 @@
 
 <div align=center>
 <h2>💡 MY INTRODUCTION 💡</h2>
-<a href="https://www.instagram.com/su_min729/" target="_blank"><img src="https://img.shields.io/badge/instagram-41454A?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://youtube.com/@su_min729" target="_blank"><img src="https://img.shields.io/badge/youtube-41454A?style=for-the-badge&logo=youtube&logoColor=white"></a> <a href="https://volcano-woodpecker-2f9.notion.site/2023-593897245c6d4ec7a719ba18a3343279?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-41454A?style=for-the-badge&logo=notion&logoColor=white"></a>
+<a href="https://www.instagram.com/su_min729/" target="_blank"><img src="https://img.shields.io/badge/instagram-41454A?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://velog.io/@sumina729/posts" target="_blank"><img src="https://img.shields.io/badge/youtube-41454A?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </div>
 
 <br/>
