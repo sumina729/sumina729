@@ -30,7 +30,7 @@
 
 <div align=center>
 <h2>💡 MY INTRODUCTION 💡</h2>
-<a href="https://www.instagram.com/su_min729/" target="_blank"><img src="https://img.shields.io/badge/instagram-41454A?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://velog.io/@sumina729/posts" target="_blank"><img src="https://img.shields.io/badge/youtube-41454A?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://www.instagram.com/su_min729/" target="_blank"><img src="https://img.shields.io/badge/instagram-41454A?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://velog.io/@sumina729/posts" target="_blank"><img src="https://img.shields.io/badge/velog-41454A?style=for-the-badge&logo=velog&logoColor=white"></a>
 </div>
 
 <br/>
