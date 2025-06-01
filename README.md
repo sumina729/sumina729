@@ -37,41 +37,47 @@
 
 🏫 Handong Global University 22 <br/> 
 📝 Major in Computer Science Engineering <br/>
-📖 Be joyful always, pray continually, give thanks in all circumstances, for this is God's will for you in Christ Jesus.<br/> <br/> 
+📖 Be joyful always, pray continually, give thanks in all circumstances<br/> <br/> 
 
-### 💼 WORK EXPERIENCE<br/> 
-2023.02 ~ 2023.06 - Welfare Department of 26th Dorm Union THEME in HGU<br/>
-2023.03 ~ now - Manager of Tennis Sports Club, GLANDALSM in HGU<br/><br/>
 
 ### 🧑‍🤝‍🧑 TEAMS<br/> 
-2022.03 ~ now - GLANDALSM (HGU's Tennis Sports Club)<br/>
-2022.08 ~ 2022.3 - SLE (HGU's Computer Science Engineering Academy)<br/>
-2022.08 ~ 2022.1 - Freshman team (2022-1 Vacation Project in SLE)<br/>
-2023.03 ~ now - [LIKELION(11th) in HGU](https://hgulikelion.web.app/)(Backend of Web Development National Association Club )<br/>
-2023.05 ~ 2023.06 - 말하는감자 (2023 IDEATHON in LIKELION_11th)<br/>
-2023.06 ~ 2023.07 - TEAM1 (2023 Summer Vacation Project in LIKELION_11th)<br/>
-2023.07 ~ 2023.08 - 링딩동 (2023 HACKATHON in LIKELION_11th)<br/>
-2023.08 ~ 2023.09 - 제주 디지털 문제 해결 아이디어제안 헤커톤 팀<br/><br/>
+2022.03 ~ 2023.12 - GLANDALSM (한동대학교 테니스 동아리)<br/>
+2022.08 ~ 2023.03 - 슬기짜기 (컴퓨터공학과 학술 동아리)<br/>
+2023.02 ~ 2023.06 - 한동대학교 26대 기숙사 자치회 THEME 복지국<br/>
+2023.03 ~ 2023.12 - <a href="https://hgulikelion.web.app/" target="_blank">LIKELION 11기</a> (웹 백엔드 개발)<br/>
+2023.12 ~ 2024.07 - LIKELION 12기 (운영진)<br/>
+2024.07 ~ 2024.12 - 한동대 SW교육봉사단<br/>
+2024.07 ~ 현재 - 지능형정보시스템 연구실<br/><br/>
 
 
 ### 👩🏻‍💻 TEAM PROJECT<br/> 
-2022.03 ~ 2022.1 - Protect the Earth (shooting game based on unity)<br/>
-2022.04 ~ 2022.5 - [dormitory management system](https://github.com/sumina729/TeamProject-Miniproject) (Mini Project in OSS class)<br/>
-2023.05 ~ 2023.06 - [Oh!감자](https://www.figma.com/file/n42BBlWMjvBnioE9jeaFGv/%EB%9C%A8%EA%B1%B0%EC%9A%B4-%EA%B0%90%EC%9E%90?type=design&node-id=8%3A77&mode=design&t=dgvaucUJkgvzg1LZ-1) (Mental health services to depressed people)<br/>
-2023.06 ~ 2023.07 - [funddigging](https://github.com/LikeLionHGU/2023-Summer-team1-back/tree/main) (Funding website that links influencers and diggers)<br/>
-2023.07 ~ 2023.08 - [CurioQuest](https://github.com/LikeLionHGU/CurioQuest-back/tree/queryCube) (CurioQuest APP/Widget)<br/>
-2023.08 ~ 2023.09 - [밥GO?](https://www.jejudsi.kr/issue/Rvbr)(networking service to build a social safety net for young people in Jeju)<br/>
-2023.10 ~ 2023.12 - [Uknow](https://github.com/LikeLionHGU/UKnow-backend) (service for graduation Course planning)
+2022.03 ~ 2022.05 - Protect the Earth (Unity 기반 슈팅 게임)<br/>
+2022.04 ~ 2022.05 - <a href="https://github.com/sumina729/TeamProject-Miniproject" target="_blank">기숙사 관리 시스템</a> (OSS 수업 미니 프로젝트)<br/>
+2023.05 ~ 2023.06 - <a href="https://www.figma.com/file/n42BBlWMjvBnioE9jeaFGv/%EB%9C%A8%EA%B1%B0%EC%9A%B4-%EA%B0%90%EC%9E%90?type=design&node-id=8%3A77&mode=design&t=dgvaucUJkgvzg1LZ-1" target="_blank">Oh!감자</a> (우울감 해소 멘탈 헬스케어 서비스)<br/>
+2023.06 ~ 2023.07 - <a href="https://github.com/LikeLionHGU/2023-Summer-team1-back/tree/main" target="_blank">funddigging</a> (인플루언서-후원자 펀딩 플랫폼)<br/>
+2023.07 ~ 2023.08 - <a href="https://github.com/LikeLionHGU/CurioQuest-back/tree/queryCube" target="_blank">CurioQuest</a> (호기심 탐험 앱/위젯)<br/>
+2023.08 ~ 2023.09 - <a href="https://www.jejudsi.kr/issue/Rvbr" target="_blank">밥GO?</a> (제주 청년 사회안전망 네트워킹 서비스)<br/>
+2023.10 ~ 2023.12 - <a href="https://github.com/LikeLionHGU/UKnow-backend" target="_blank">Uknow</a> (졸업 이수 계획 설계 서비스)<br/>
+2024.05 ~ 2024.06 - 야금야금 (현대인을 위한 야식 건강 서비스)<br/>
+2024.07 ~ 2025.06 - 캡스톤디자인 (딥러닝 기반 X-ray 영상 개선 소프트웨어)<br/>
+2025.03 ~ 2025.06 - 닥터메디 (약 정보 분석 및 복약 알림 서비스)<br/>
+2025.03 ~ 2025.06 - 냉장고를 부탁해 (냉장고 관리 및 재료 기반 레시피 추천)<br/><br/>
 
 <br/>
 
 ### 👩🏻‍💻 PERSONAL PROJECT<br/>
-2022.03 - 미리미리 C camp (2022 Handong Summer SW Academy)<br/>
-2023.01 - Java Program Basics camp (2023 Handong Winter SW Academy)<br/>
-2023.01 - C고수되기 첫걸음 camp (2023 Handong Winter SW Academy)<br/><br/>
+2022.03 - 미리미리 C 캠프 (2022 여름 SW 아카데미)<br/>
+2023.01 - Java 기초 캠프 (2023 겨울 SW 아카데미)<br/>
+2023.01 - C 고수되기 첫걸음 캠프 (2023 겨울 SW 아카데미)<br/>
+2024.07 - Java 활용 집중 프로그램 캠프<br/><br/>
 
 ### 🏆 ACHIEVEMENTS<br/>
-2022.12 - [우수상] 2022 C Programming Contest in HGU 
+2025 - 대경권 프로그래밍 경진대회 우수상<br/>
+2025 - 캡스톤 디자인 경진대회 우수상<br/>
+2024 - ACK2024 논문경진대회 은상<br/>
+2024 - 한국소프트웨어종합학술 논문경진대회 장려상<br/>
+2023 - 멋쟁이사자처럼 12기 중앙 아이디어톤 2등<br/>
+2022 - 한동대학교 1학년 프로그래밍 경진대회 우수상<br/>
 
 <br/> 
 <br/> 
