@@ -52,9 +52,9 @@
 2022.08 ~ 2023.03 - 슬기짜기 (컴퓨터공학과 학술 동아리)<br/>
 2023.02 ~ 2023.06 - 한동대학교 26대 기숙사 자치회 THEME 복지국<br/>
 2023.03 ~ 2023.12 - <a href="https://hgulikelion.web.app/" target="_blank">LIKELION 11기</a> (웹 백엔드 개발)<br/>
-2023.12 ~ 2024.07 - LIKELION 12기 (운영진)<br/>
+2023.12 ~ 2024.07 - LIKELION 12기 (운영진, 우수수료)<br/>
 2024.07 ~ 2024.12 - 한동대 SW교육봉사단<br/>
-2024.07 ~ 현재 - 지능형정보시스템 연구실<br/><br/>
+2024.07 ~ 현재 - 한동대 지능형정보시스템 연구실<br/><br/>
 
 
 ### 👩🏻‍💻 TEAM PROJECT<br/> 
@@ -66,8 +66,9 @@
 2023.08 ~ 2023.09 - <a href="https://www.jejudsi.kr/issue/Rvbr" target="_blank">밥GO?</a> (제주 청년 사회안전망 네트워킹 서비스)<br/>
 2023.10 ~ 2023.12 - <a href="https://github.com/LikeLionHGU/UKnow-backend" target="_blank">Uknow</a> (졸업 이수 계획 설계 서비스)<br/>
 2024.05 ~ 2024.06 - 야금야금 (현대인을 위한 야식 건강 서비스)<br/>
+2025.02 ~ 2025.02 - 포즈픽 (AI기반 연예인 포즈 매칭 & 가이드 서비스)<br/>
 2024.07 ~ 2025.06 - 캡스톤디자인 (딥러닝 기반 X-ray 영상 개선 소프트웨어)<br/>
-2025.03 ~ 2025.06 - 닥터메디 (약 정보 분석 및 복약 알림 서비스)<br/>
+2025.03 ~ 2025.06 - 닥터메디 (AI기반 약 정보 분석 및 복약 알림 서비스)<br/>
 2025.03 ~ 2025.06 - 냉장고를 부탁해 (냉장고 관리 및 재료 기반 레시피 추천)<br/><br/>
 
 
@@ -88,7 +89,10 @@
 <br/> 
 <br/> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumina729&show_icons=true&theme=nightowl)  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sumina729)](https://solved.ac/sumina729) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumina729&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumina729&show_icons=true&theme=nightowl)
+-->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sumina729)](https://solved.ac/sumina729) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumina729&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **sumina729/sumina729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
